@@ -1,13 +1,11 @@
-- National Scholarship of Graduate Student, 2024.
+- Second Prize in the National AI Competition for Graduate Students, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- Outstanding Student Scholarship of UESTC, 2024.
 
-- First-prize Scholarship of CUMT, 2023.
+- Outstanding Freshman Scholarship of UESTC, 2023.
 
-- Freshman Scholarship of CUMT, 2022.
+- Direct Admission to Graduate Program at UESTC, 2023.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- M Prize in the American Mathematical Contest in Modeling (MCM), 2022.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- First-prize Scholarship of UESTC, 2021.
