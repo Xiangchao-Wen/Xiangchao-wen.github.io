@@ -1,7 +1,4 @@
 
-
-(https://github.com/Xiangchao-Wen/)
-
 Wen Xiangchao is currently a graduate student at the University of Electronic Science and Technology of China, where he is pursuing a Master's degree in Computer Science and Technology. His primary area of research is Graph Neural Networks
 
 #### Email
